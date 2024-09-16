@@ -1,4 +1,6 @@
 # Cold Email Generator :email:
+![Cold email generator](https://github.com/user-attachments/assets/a7ebd3f1-009e-4b18-b4bc-be0478af1f55)
+
 This AI-powered tool is built using `groq`, `langchain`, `chromadb`, and `streamlit`. It’s designed specifically for service companies that want to generate personalized cold emails, helping them reach out to potential clients more effectively. These emails incorporate details from the company’s portfolio, developed using a basic `Retrieval-Augmented Generation (RAG) system`.
 
 **Use Case:** <br>
